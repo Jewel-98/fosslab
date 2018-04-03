@@ -1,0 +1,3 @@
+This is an example to push familiarize Git commands
+Continue working with Git
+
